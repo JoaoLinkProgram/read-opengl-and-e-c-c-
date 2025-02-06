@@ -1,1 +1,1 @@
-# read-opengl-and-e-c-c-
+# read-opengl-and-e-c/c++
